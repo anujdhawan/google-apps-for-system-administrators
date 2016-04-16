@@ -1,0 +1,1 @@
+This tool will be created to take advantage of Google Apps API's for the purpose of finding solutions to complex administrative tasks to all Google Apps resources.
